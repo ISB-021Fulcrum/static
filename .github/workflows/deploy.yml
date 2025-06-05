@@ -22,4 +22,4 @@ jobs:
 
       - name: Deploy to S3
         run: |
-          aws s3 sync . s3://cmtr-c15a19c8-bucket-1740814268 --delete
+          aws s3 sync . s3://cmtr-da7n1rs2-bucket-1749130305 --delete
